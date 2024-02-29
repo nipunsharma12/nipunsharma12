@@ -1,7 +1,7 @@
 # Nipun Sharma:
 
 I joined GitHub {{ ACCOUNT_AGE }} years ago.
-Since then I've pushed {{ COMMITS }} commits, opened {{ ISSUES }} issues, submitted {{ PULL_REQUESTS }} pull requests,{{ REPOSITORIES }} personal projects, contributed to {{ REPOSITORIES_CONTRIBUTED_TO }} repositories, and reviewed {{ CODE_REVIEWS }} pull requests.
+Since then I've pushed {{ COMMITS }} commits, opened {{ ISSUES }} issues, submitted {{ PULL_REQUESTS }} pull requests, contributed to {{ REPOSITORIES_CONTRIBUTED_TO }} repositories, and reviewed {{ CODE_REVIEWS }} pull requests.
 
 ### Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nipunsharma128) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nipunsharma128) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nipunsharma12) 
