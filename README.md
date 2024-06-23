@@ -1,7 +1,7 @@
 # Nipun Sharma:
 
 I joined GitHub 6 years ago.
-Since then I've pushed 257 commits, opened 0 issues, submitted 196 pull requests, contributed to 15 repositories, and reviewed 240 pull requests.
+Since then I've pushed 264 commits, opened 0 issues, submitted 202 pull requests, contributed to 15 repositories, and reviewed 246 pull requests.
 
 ### Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nipunsharma128) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nipunsharma128) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nipunsharma12) 
