@@ -1,7 +1,8 @@
-# Nipun Sharma:
+![FullSizeRender](https://github.com/nipunsharma12/nipunsharma12/assets/35862225/d2f8443f-247d-4df9-92d0-57f47406b80d)
 
+# Nipun Sharma:
 I joined GitHub 6 years ago.
-Since then I've pushed 264 commits, opened 0 issues, submitted 202 pull requests, contributed to 15 repositories, and reviewed 246 pull requests.
+Since then I've pushed 271 commits, opened 0 issues, submitted 207 pull requests, contributed to 16 repositories, and reviewed 252 pull requests.
 
 ### Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nipunsharma128) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nipunsharma128) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nipunsharma12) 
@@ -12,6 +13,8 @@ Since then I've pushed 264 commits, opened 0 issues, submitted 202 pull requests
 ### GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nipunsharma12&theme=dark&hide_border=false)<br/>
 
+![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B199.5%25)
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B10.4%25)
 
 
 ![Nipun Sharma](./assets/wave_footer.svg)
