@@ -1,7 +1,6 @@
-![FullSizeRender](https://github.com/nipunsharma12/nipunsharma12/blob/5c05eebae915811d2029c3d327644d45cbfbc540/assets/GH-Cover.jpg)
-
-
 # Nipun Sharma:
+![FullSizeRender](https://github.com/nipunsharma12/nipunsharma12/blob/fc9cb057915cbfc336347bd78a12098af314476f/assets/GH_Cover.jpg)
+
 I joined GitHub {{ ACCOUNT_AGE }} years ago.
 Since then I've pushed {{ COMMITS }} commits, opened {{ ISSUES }} issues, submitted {{ PULL_REQUESTS }} pull requests, contributed to {{ REPOSITORIES_CONTRIBUTED_TO }} repositories, and reviewed {{ CODE_REVIEWS }} pull requests.
 
