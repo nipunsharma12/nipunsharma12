@@ -1,5 +1,6 @@
-# Nipun Sharma:
+![FullSizeRender](https://github.com/nipunsharma12/nipunsharma12/assets/35862225/d2f8443f-247d-4df9-92d0-57f47406b80d)
 
+# Nipun Sharma:
 I joined GitHub {{ ACCOUNT_AGE }} years ago.
 Since then I've pushed {{ COMMITS }} commits, opened {{ ISSUES }} issues, submitted {{ PULL_REQUESTS }} pull requests, contributed to {{ REPOSITORIES_CONTRIBUTED_TO }} repositories, and reviewed {{ CODE_REVIEWS }} pull requests.
 
