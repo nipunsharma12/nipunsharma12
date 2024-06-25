@@ -1,8 +1,8 @@
-![FullSizeRender](https://github.com/nipunsharma12/nipunsharma12/assets/35862225/d2f8443f-247d-4df9-92d0-57f47406b80d)
+![FullSizeRender](https://github.com/nipunsharma12/nipunsharma12/assets/GH-Cover.jpg)
 
 # Nipun Sharma:
 I joined GitHub 6 years ago.
-Since then I've pushed 272 commits, opened 0 issues, submitted 207 pull requests, contributed to 16 repositories, and reviewed 252 pull requests.
+Since then I've pushed 273 commits, opened 0 issues, submitted 207 pull requests, contributed to 16 repositories, and reviewed 252 pull requests.
 
 ### Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nipunsharma128) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nipunsharma128) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nipunsharma12) 
