@@ -1,4 +1,4 @@
-![FullSizeRender](https://github.com/nipunsharma12/nipunsharma12/assets/35862225/d2f8443f-247d-4df9-92d0-57f47406b80d)
+![FullSizeRender](https://github.com/nipunsharma12/nipunsharma12/assets/GH-Cover.jpg)
 
 # Nipun Sharma:
 I joined GitHub {{ ACCOUNT_AGE }} years ago.
