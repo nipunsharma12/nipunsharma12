@@ -1,8 +1,15 @@
 # Nipun Sharma:
 ![FullSizeRender](https://github.com/nipunsharma12/nipunsharma12/blob/fc9cb057915cbfc336347bd78a12098af314476f/assets/GH_Cover.jpg)
 
-I joined GitHub 6 years ago.
-Since then I've pushed 277 commits, opened 0 issues, submitted 207 pull requests, contributed to 16 repositories, and reviewed 252 pull requests.
+Hello there! I've been part of the GitHub family for 6 years now. During this time, I've:
+
+Pushed 284 commits into the code cosmos of GitHub
+Sprouted 0 issues (There must be an issue here)
+Championed 211 pull requests
+Contributed to 16 repositories (sharing is caring)
+Reviewed 256 pull requests (keeping the code clean and mean)
+
+By day, I'm an experienced Java Microservices developer, crafting and nurturing enterprise-level microservices that deliver slick, cloud-ready solutions to tackle real-world problems. With a toolkit that includes Spring Boot, Docker, and both SQL and NoSQL databases, I’m always up for a challenge to streamline application lifecycles. My goal? To build robust, scalable applications that drive business growth and spark innovation. Let's turn code into something extraordinary!
 
 ### Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nipunsharma128) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nipunsharma128) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nipunsharma12) 
