@@ -3,7 +3,7 @@
 
 Hello there! I've been part of the GitHub family for 6 years now. During this time, I've:
 
-Pushed 393 commits into the code cosmos of GitHub
+Pushed 394 commits into the code cosmos of GitHub
 
 Sprouted 1 issues (There must be an issue here)
 
