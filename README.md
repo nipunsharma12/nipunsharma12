@@ -9,7 +9,7 @@ Sprouted 2 issues (There must be an issue here)
 
 Championed 515 pull requests
 
-Contributed to 15 repositories (sharing is caring)
+Contributed to 14 repositories (sharing is caring)
 
 Reviewed 571 pull requests (keeping the code clean and mean)
 
