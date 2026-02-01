@@ -1,13 +1,13 @@
 # Nipun Sharma:
 ![FullSizeRender](https://github.com/nipunsharma12/nipunsharma12/blob/fc9cb057915cbfc336347bd78a12098af314476f/assets/GH_Cover.jpg)
 
-Hello there! I've been part of the GitHub family for 7 years now. During this time, I've:
+Hello there! I've been part of the GitHub family for 8 years now. During this time, I've:
 
-Pushed 72 commits into the code cosmos of GitHub
+Pushed 76 commits into the code cosmos of GitHub
 
 Sprouted 2 issues (There must be an issue here)
 
-Championed 520 pull requests
+Championed 526 pull requests
 
 Contributed to 0 repositories (sharing is caring)
 
