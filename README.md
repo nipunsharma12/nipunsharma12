@@ -3,15 +3,15 @@
 
 Hello there! I've been part of the GitHub family for 8 years now. During this time, I've:
 
-Pushed 79 commits into the code cosmos of GitHub
+Pushed 93 commits into the code cosmos of GitHub
 
-Sprouted 2 issues (There must be an issue here)
+Sprouted 3 issues (There must be an issue here)
 
-Championed 531 pull requests
+Championed 537 pull requests
 
 Contributed to 0 repositories (sharing is caring)
 
-Reviewed 0 pull requests (keeping the code clean and mean)
+Reviewed 2 pull requests (keeping the code clean and mean)
 
 By day, I'm an experienced Java Microservices developer, crafting and nurturing enterprise-level microservices that deliver slick, cloud-ready solutions to tackle real-world problems. With a toolkit that includes Spring Boot, Docker, and both SQL and NoSQL databases, I’m always up for a challenge to streamline application lifecycles. My goal? To build robust, scalable applications that drive business growth and spark innovation. Let's turn code into something extraordinary!
 
