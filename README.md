@@ -5,11 +5,11 @@ Hello there! I've been part of the GitHub family for 8 years now. During this ti
 
 Pushed 105 commits into the code cosmos of GitHub
 
-Sprouted 11 issues (There must be an issue here)
+Sprouted 13 issues (There must be an issue here)
 
-Championed 619 pull requests
+Championed 626 pull requests
 
-Contributed to 0 repositories (sharing is caring)
+Contributed to 2 repositories (sharing is caring)
 
 Reviewed 3 pull requests (keeping the code clean and mean)
 
