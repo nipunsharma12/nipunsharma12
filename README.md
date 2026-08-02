@@ -7,7 +7,7 @@ Pushed 105 commits into the code cosmos of GitHub
 
 Sprouted 13 issues (There must be an issue here)
 
-Championed 626 pull requests
+Championed 631 pull requests
 
 Contributed to 2 repositories (sharing is caring)
 
@@ -24,8 +24,9 @@ By day, I'm an experienced Java Microservices developer, crafting and nurturing 
 ### GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nipunsharma12&theme=dark&hide_border=false)<br/>
 
-![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B199.5%25)
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B10.4%25)
+![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B163.8%25)
+![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B135.9%25)
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B10.1%25)
 
 
 ![Nipun Sharma](./assets/wave_footer.svg)
